@@ -1,0 +1,7 @@
+BLOQUE TRY CATCH
+TRY intentar
+
+
+try {
+// codigo que puede lanzar la excepcion
+} catch (Exeption e)
